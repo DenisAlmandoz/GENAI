@@ -1,0 +1,23 @@
+[
+  {
+    "doc_id": "product-001",
+    "title": "Lakehouse Assistant",
+    "category": "support",
+    "summary": "RAG assistant for internal analytics documentation with citation requirements.",
+    "owner": "data-platform@databricks.demo"
+  },
+  {
+    "doc_id": "product-002",
+    "title": "Claims Copilot",
+    "category": "operations",
+    "summary": "Claim triage assistant that extracts policy facts, recommends next actions, and flags fraud risk.",
+    "owner": "insurance-ops@databricks.demo"
+  },
+  {
+    "doc_id": "product-003",
+    "title": "Commerce Concierge",
+    "category": "retail",
+    "summary": "Customer-facing shopping assistant that requires tone control, grounding, and policy guardrails.",
+    "owner": "retail-ai@databricks.demo"
+  }
+]
